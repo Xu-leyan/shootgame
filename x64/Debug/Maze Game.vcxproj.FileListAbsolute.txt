@@ -1,0 +1,2 @@
+C:\Users\16632\Documents\OpenGLGame\Shoot-Maze-Game\x64\Debug\Maze Game.exe
+G:\game\Shoot-Maze-Game\x64\Debug\Maze Game.exe

@@ -1,0 +1,53 @@
+﻿  glm.cpp
+  stb_image.cpp
+  main.cpp
+G:\game\Shoot-Maze-Game\src\setmaze.h(11,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\game\Shoot-Maze-Game\src\setmaze.h(12,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\game\Shoot-Maze-Game\src\camera.h(138,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+G:\game\Shoot-Maze-Game\src\camera.h(139,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+G:\game\Shoot-Maze-Game\src\camera.h(212,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\game\Shoot-Maze-Game\src\camera.h(213,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\game\Shoot-Maze-Game\src\place.h(128,33): warning C4244: 'argument': conversion from 'GLint' to 'float', possible loss of data
+G:\game\Shoot-Maze-Game\src\place.h(129,31): warning C4244: 'argument': conversion from 'GLint' to 'float', possible loss of data
+G:\game\Shoot-Maze-Game\src\player.h(79,1): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+G:\game\Shoot-Maze-Game\src\player.h(126,1): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\game\Shoot-Maze-Game\src\player.h(141,1): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+G:\game\Shoot-Maze-Game\src\player.h(142,1): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+G:\game\Shoot-Maze-Game\src\boss.h(38,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\game\Shoot-Maze-Game\src\boss.h(133,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+G:\game\Shoot-Maze-Game\src\boss.h(134,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+G:\game\Shoot-Maze-Game\src\ballmanager.h(201,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+G:\game\Shoot-Maze-Game\src\ballmanager.h(203,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+G:\game\Shoot-Maze-Game\src\ballmanager.h(205,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+G:\game\Shoot-Maze-Game\src\ballmanager.h(232,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\game\Shoot-Maze-Game\src\world.h(116,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\game\Shoot-Maze-Game\src\world.h(117,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\game\Shoot-Maze-Game\src\world.h(206,44): warning C4244: 'argument': conversion from 'T' to 'GLsizei', possible loss of data
+          with
+          [
+              T=float
+          ]
+G:\game\Shoot-Maze-Game\src\world.h(206,30): warning C4244: 'argument': conversion from 'T' to 'GLsizei', possible loss of data
+          with
+          [
+              T=float
+          ]
+G:\game\Shoot-Maze-Game\src\main.cpp(27,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+G:\game\Shoot-Maze-Game\src\main.cpp(65,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  glad.c
+  LINK : G:\game\Shoot-Maze-Game\x64\Debug\Maze Game.exe not found or not built by the last incremental link; performing full link
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Maze Game.vcxproj -> G:\game\Shoot-Maze-Game\x64\Debug\Maze Game.exe
